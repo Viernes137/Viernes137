@@ -18,8 +18,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <!-- Puedes cambiar este GIF por tu personaje favorito de anime -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbmZ6bmZueGZ3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="200px">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp3dmszbGJvdHJlczdoenlndGs1aWhrOWwxYWNjbGN6anhpa3B2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kspVl6FzbdblOMKRmM/giphy.gif" width="200px">
     </td>
   </tr>
 </table>
