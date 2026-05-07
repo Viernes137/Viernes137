@@ -17,7 +17,7 @@
         🚲 Fuera de la terminal, me encuentras en alguna ruta de gravel.
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="100%" align="center">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp3dmszbGJvdHJlczdoenlndGs1aWhrOWwxYWNjbGN6anhpa3B2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kspVl6FzbdblOMKRmM/giphy.gif" width="200px">
     </td>
   </tr>
