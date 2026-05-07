@@ -2,18 +2,12 @@
 
 
 <!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Bienvenido%20a%20mi%20Terminal&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
 
 <!-- INTRO SECCIÓN -->
 <table border="0">
   <tr>
     <td width="60%">
       <h1>Hey! Soy Bruno ⚡</h1>
-      <p>
-        <i>"No importa cuán talentoso seas, no puedes cambiar el mundo solo." — L (Death Note)</i>
-      </p>
       <p>
         Soy un apasionado de la <b>Ingeniería en Datos y Ciberseguridad</b>. Me encanta desarmar sistemas (y a veces volverlos a armar) mientras escucho un buen soundtrack de fondo. 
       </p>
