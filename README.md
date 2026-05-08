@@ -5,14 +5,14 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>Hey! Soy Bruno ⚡</h1>
+      <h1>Hey! Soy Bruno 🌱</h1>
       <p>
         Soy un apasionado de la <b>Ingeniería en Datos y Ciberseguridad</b>. Me encanta desarmar sistemas (y a veces volverlos a armar) mientras escucho un buen soundtrack de fondo. 
       </p>
       <p>
-        🔭 Actualmente trabajando en proyectos de <b>IoT y Big Data</b>.<br>
-        🌱 Aprendiendo sobre despliegues en la nube y optimización de pipelines.<br>
-        🚲 Fuera de la terminal, me encuentras en alguna ruta de gravel.
+         Actualmente trabajando en proyectos de <b>IoT y Big Data</b>.<br>
+         Aprendiendo sobre despliegues en la nube y optimización de pipelines.<br>
+         Fuera de la terminal, me encuentras en alguna ruta de gravel.
       </p>
     </td>
     <td width="100%" align="center">
