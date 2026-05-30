@@ -6,7 +6,7 @@
     <td width="60%">
       <h1>Hey! Soy Bruno 🌱</h1>
       <p>
-        Soy un apasionado de la <b>Ingeniería en Datos y Ciberseguridad</b>. Me encanta desarmar sistemas (y a veces volverlos a armar) mientras escucho un buen soundtrack de fondo. 
+        Soy un estudiante de <b>Ingeniería en Datos y Ciberseguridad</b>. Me encanta desarmar sistemas (y a veces volverlos a armar) mientras escucho un buen soundtrack de fondo. 
       </p>
       <p>
          Actualmente trabajando en proyectos de <b>IoT y Big Data</b>.<br>
